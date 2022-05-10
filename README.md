@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Chuka-J-Uzo
-- Read my recent Gists here https://gist.github.com/Chuka-J-Uzo/9d641b2b09ac7ffce914305dd9095921
+- Read my recent <a href="https://gist.github.com/Chuka-J-Uzo">publications here.</a> 
+
 
 
 <!---
